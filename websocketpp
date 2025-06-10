@@ -1,1 +1,3 @@
 https://github.com/zaphoyd/websocketpp
+
+sudo apt-get install libwebsocketpp-dev
